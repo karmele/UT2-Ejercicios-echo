@@ -37,13 +37,13 @@
             ?>
             <h3>Ahora practicaremos con print</h3>
             <?php
-            print "Hola este es mi primer ejemplo con <span class='comen'>print</span> <br />";
+        
             print 'Las comillas simples también funcionan con <span class="comen">print</span>'
             ?>
         </section>
     </main>
     <footer>
-
+    <p>Desarrollo web en entorno servidor</p>
         <p class="copyright">
             &copy;
             <?php

@@ -13,7 +13,7 @@
 
     <header>
         <img src='img\logo.png' width="85" height="70" alt="El logo de Mª Ana Sanz" />
-        
+        <h1>Ejercicios de la UT2</h1>
     </header>
 
     <nav>
@@ -35,7 +35,7 @@
             echo '<p>pero solo funciona con las comillas dobles\n, no con las simples </p>';
             echo "<hr />";
             ?>
-
+            <h3>Ahora practicaremos con print</h3>
             <?php
             print "Hola este es mi primer ejemplo con <span class='comen'>print</span> <br />";
             print 'Las comillas simples también funcionan con <span class="comen">print</span>'
